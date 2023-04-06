@@ -1,4 +1,4 @@
-# Wellcome to Store Manager Project!
+# Store Manager Project
 
 This is a sales management REST API in wich the user can create, read, update and delete sales and products. It was developed using the MSC architecture and the TDD principles.
 
