@@ -1,3 +1,3 @@
 # Boas-vindas ao repositório do Projeto Store Manager!
 
-# ⚠️ README personalizado em construção! ⚠️
+## ⚠️ README personalizado em construção! ⚠️
